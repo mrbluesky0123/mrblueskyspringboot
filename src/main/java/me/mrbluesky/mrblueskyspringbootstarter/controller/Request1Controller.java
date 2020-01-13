@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/req1")
 public class Request1Controller {
-it bash
+
     private Request1Service request1Service;
 
     @Autowired
